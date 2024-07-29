@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rubén</h1>
+<h1 align="center">Hi 👋, I'm Rubén (19)</h1>
 <h3 align="center">Web Application Development Student (DAW), Spain</h3>
 
 <p align="left"> <a href="https://twitter.com/rubiisito" target="blank"><img src="https://img.shields.io/twitter/follow/rubiisito?logo=twitter&style=for-the-badge" alt="rubiisito" /></a> </p>
 
-- 🔭 I’m currently working on [Prueba 1](https://github.com/Rubirojo05/Prueba1)
+- 🔭 I’m currently working on [Proyecto 1](https://github.com/Rubirojo05/Prueba1)
 
 - 🌱 I’m currently learning **React, TypeScript, Astro, JavaScript, Tailwind**
 
