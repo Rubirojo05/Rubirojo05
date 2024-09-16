@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, TypeScript, Astro, JavaScript, Tailwind**
 
-- 📫 How to reach me **rubenrojomoreno@gmail.com**
+- 📫 How to reach me **rubirojomoreno@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
