@@ -14,11 +14,4 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rubirojo05) 
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rubennrouge) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rubiisito) 
----
-[![](https://visitcount.itsvg.in/api?id=Rubirojo05&icon=0&color=4)](https://visitcount.itsvg.in)
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
