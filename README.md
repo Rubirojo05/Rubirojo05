@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏼 Hi, I'm Rubén, I'm 19 years old and I'm studying Web Application Development, second year.<br><br>⭐ I’m currently working on [Proyecto Final](https://github.com/Rubirojo05/TrabajoFinal)<br><br>📖 I’m currently learning React, TypeScript, Astro, JavaScript, Tailwind, PHP<br><br>📫 How to reach me rubirojomoreno@gmail.com
+👋🏼 Hi, I'm Rubén, I'm 19 years old and I'm studying Web Application Development, second year.<br><br>⭐ I’m currently working on [Proyecto Final](https://github.com/Rubirojo05/TrabajoFinal)<br><br>📖 I’m currently learning React, TypeScript, Astro, JavaScript, Tailwind, PHP<br><br>📫 How to reach me rubenrojomoreno@gmail.com
 
 
 # 💻 Tech Stack:
